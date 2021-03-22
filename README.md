@@ -10,7 +10,7 @@ https://dev.to/sandrogiacom/kubernetes-for-java-developers-setup-41nk
 
 **Docker and Make (Optional)**
 
-**Java 15**
+**Java 14**
 
 Help to install tools:
 
